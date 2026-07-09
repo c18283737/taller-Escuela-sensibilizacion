@@ -1,0 +1,12 @@
+[
+  {"url":"bass/bass.wav","type":"audio","bank":"bass","n":0},
+  {"url":"chair/chair.mp3","type":"audio","bank":"chair","n":0},
+  {"url":"bass/car.mp3","type":"audio","bank":"car","n":0},
+  {"url":"bass/machinegun.wav","type":"audio","bank":"machinegun","n":0},
+  {"url":"bass/pop.wav","type":"audio","bank":"pop","n":0},
+  {"url":"bass/pad.wav","type":"audio","bank":"pad","n":0},
+  {"url":"bass/child.mp3","type":"audio","bank":"child","n":0},
+  {"url":"bass/flexatone.wav","type":"audio","bank":"flexatone","n":0},
+  {"url":"bass/fx.wav","type":"audio","bank":"fx","n":0},
+  {"url":"bass/fx2.wav","type":"audio","bank":"fx","n":1},
+  
